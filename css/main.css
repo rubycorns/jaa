@@ -6,12 +6,12 @@
 }
 
 * {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 hr {
   border-width: 1px;
-  border-color: #C8C8C8;
+  border-color: #A9BCF5;
   border-style: solid;
 }
 
@@ -24,11 +24,21 @@ hr {
   width: 30%;
   margin: 0 auto;
   padding: 30px;
-  background-color: #C8C8C8;
+  background-color: #A9BCF5;
   border-style: solid;
   margin-top: 5%;
   color: white;
   font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 5%;
+}
+
+.custom-footer {
+  margin-bottom: 5%;
+}
+
+.custom-footer a {
+  color: #A9BCF5;
   font-weight: bold;
 }
 

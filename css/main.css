@@ -24,10 +24,17 @@ hr {
   width: 30%;
   margin: 0 auto;
   padding: 30px;
-  border-color: #C8C8C8;
-  border-width: 3px;
+  background-color: #C8C8C8;
   border-style: solid;
   margin-top: 5%;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+a, a:active {
+  text-decoration: none;
+  color: inherit;
 }
 
 .center {

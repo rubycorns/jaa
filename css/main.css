@@ -37,7 +37,7 @@ hr {
   margin-bottom: 5%;
 }
 
-.custom-footer a {
+.custom-footer a, .join-desc a {
   color: #A9BCF5;
   font-weight: bold;
 }

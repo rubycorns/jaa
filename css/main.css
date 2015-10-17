@@ -15,7 +15,11 @@ hr {
   border-style: solid;
 }
 
-.about, .join {
+body {
+  line-height: 1.6;
+}
+
+.about, .join, .senior {
   width: 50%;
   margin: 0 auto;
 }
@@ -24,13 +28,19 @@ hr {
   width: 30%;
   margin: 0 auto;
   padding: 30px;
-  background-color: #A9BCF5;
+  border: #A9BCF5;
   border-style: solid;
   margin-top: 5%;
-  color: white;
+  color: #A9BCF5;
   font-size: 30px;
   font-weight: bold;
   margin-bottom: 5%;
+  border-radius: 30px;
+}
+
+.button:hover {
+  background-color: #A9BCF5;
+  color: white;
 }
 
 .custom-footer {

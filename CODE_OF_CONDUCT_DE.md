@@ -1,24 +1,27 @@
-Verhaltenskodex
+#Verhaltenskodex
 
-Im Interesse einen offenen und einladenden Raum zu fördern versprechen wir, als Beitragende und Pfleger*innen dieser Community, allen Menschen respektvoll gegenüberzutreten - insbesondere wenn sie Probleme melden, neue Features anfragen, die Dokumentation aktualisieren, Pull Requests einreichen oder anderweitig zum Projekt beitragen.
+Als Beitragende und Betreibende dieser Community (Gemeinschaft) versprechen wir, einen offenen und einladenen Raum zu fördern, indem wir alle beitragende Menschen respektieren, die ihre Erfahrungen teilen, anderen zuhören, Vorfälle melden, Dokumente aktualisieren und Vorschläge, Features (neue Ideen), Pull Requests, Patches (kleinere Software-Verbesserungen) oder weitere Aktivitäten einreichen.
 
-Wir setzen uns dafür ein, dass eine Mitwirkung an diesem Projekt für alle ein schikanefreies Erlebnis ist, unabhängig von: Erfahrungslevel, Geschlecht, Geschlechts-Identität und -Ausdruck, sexueller Orientierung, körperlichen Handycaps, Aussehen, Körperform, Hautfarbe, Ethnie, Alter, Religion oder Nationalität.
+Wir setzen uns dafür ein, die Teilnahme und Mitwirkung in unserer Community so belästigungsfrei wie möglich zu gestalten, unabhängig von Erfahrungsebene, Geschlecht, Gender, sexueller Orientierung, sozialem Status, Behinderungen, persönlichem Aussehen, Körpergröße und -form, /race/, Hautfarbe, Ethnizität, Alter, Religion oder Nationalität.
 
-Beispiele unzumutbaren Verhaltens durch Teilnehmer*innen beinhalten:
+Unakzeptables Verhalten beinhaltet unter anderem:
 
-    Die Verwendung sexualisierter Sprache oder Bilder
-    Persönliche Angriffe
-    Trollen oder beschimpfende/abfällige Bemerkungen
-    Öffentliche oder private Belästigung
-    Die Veröffentlichung privater Informationen ohne explizite Erlaubnis, wie z.B. physische oder elektronische Adressen
-    Anderes unethisches oder unprofessionelles Verhalten.
+* Die Verwendung sexualisierter Sprache oder Bilder
+* Persönliche Angriffe
+* Trollen oder beschimpfende/abfällige Bemerkungen
+* Öffentliche oder private Belästigung
+* Die Veröffentlichung privater Informationen ohne explizite Erlaubnis, sowohl postalische als auch elektronische Addressen
+* Weiteres unethisches oder unprofessionelles Verhalten.
 
-Community Maintainers haben das Recht und die Verantwortung Kommentare, Commits, Code, Wiki-Überarbeitungen, Issues und andere Beiträge zu entfernen oder zu bearbeiten, wenn diese mit dem Verhaltenskodex nicht im Einklang sind.
+Die Community Betreibenden haben das Recht und die Verantwortung, Kommentare, Commits, Code, Wiki-Änderungen, Issues und andere Beiträge, die nicht mit dem Verhaltenskodex im Einklang sind, zu entfernen, abzulehnen oder zu überarbeiten.
 
-Durch das Verabschieden des Verhaltenskodex verpflichten sich die Project Maintainers, die aufgestellten Prinzipien fair und durchgängig auf alle Aspekte des Projekts anzuwenden. Community Maintainers, die dem Verhaltenskodex nicht folge leisten oder ihn nicht durchsetzen, werden aus dem Projekt-Team dauerhaft entfernt.
+Durch die Übernahme dieses Verhaltenskodex verpflichten sich die Community Betreibenden, die aufgestellten Prinzipien fair und durchgängig auf alle Aspekte des Projekts anzuwenden. Community Betreibende, die den Verhaltenskodex nicht befolgen oder durchsetzen, können aus dem Projekt-Team dauerhaft entfernt werden.
 
-Dieser Verhaltenskodex gilt sowohl für den Projekt-Raum als auch im öffentlichen Raum wenn Einzelpersonen das Projekt oder die dahinter stehende Community repräsentieren.
+Dieser Verhaltenskodex gilt sowohl für den öffentlichen Raum als auch den Projektraum wenn Einzelpersonen die dahinter stehende Gemeinschaft repräsentieren.
 
-Vorkommnisse von missbräuchlichem, schikanösem oder sonstwie unaktzeptablem Verhalten können und sollen gemeldet werden: Entweder, indem ein neues Issue geöffnet wird oder durch Kontaktaufnahme mit einer oder mehreren der Community-Maintainerinnen per slack ("mc" für Sara or "tam" für Tam), oder per E-Mail (us@juniorsareawesome.org).
+Missbräuchliches, belästigendes oder anderweitig unakzeptables Verhalten bitten wir über folgende Wege zu melden:
+* Über die Erstellung eines neuen Github Issues
+* Über die direkte Kontaktaufnahme mit den Projektbetreibenden auf Slack ("mc" für Sara or "tam" für Tam)
+* Via E-Mail senden an: us@juniorsareawesome.org
 
-Dieser Verhaltenskodex basiert auf dem Contributor Covenant version 1.2.0
+Dieser Verhaltenskodex basiert auf dem  Contributor Covenant Version 1.2.0

@@ -1,10 +1,10 @@
 #Verhaltenskodex
 
-Als Beitragende und Betreibende dieser Community (Gemeinschaft) versprechen wir, einen offenen und einladenen Raum zu fördern, indem wir alle beitragende Menschen respektieren, die ihre Erfahrungen teilen, anderen zuhören, Vorfälle melden, Dokumente aktualisieren und Vorschläge, Features (neue Ideen), Pull Requests, Patches (kleinere Software-Verbesserungen) oder weitere Aktivitäten einreichen.
+Als Beitragende und Betreibende dieser Community (Gemeinschaft) versprechen wir, einen offenen und einladenen Raum zu fördern, indem wir alle beitragende Menschen respektieren, die ihre Erfahrungen teilen, Anderen zuhören, Vorfälle melden, Dokumente aktualisieren und Vorschläge, Features (Funktionalitäten), Pull Requests, Patches (Versionsverbesserungen) oder weitere Aktivitäten einreichen.
 
-Wir setzen uns dafür ein, die Teilnahme und Mitwirkung in unserer Community so belästigungsfrei wie möglich zu gestalten, unabhängig von Erfahrungsebene, Geschlecht, Gender, sexueller Orientierung, sozialem Status, Behinderungen, persönlichem Aussehen, Körpergröße und -form, /race/, Hautfarbe, Ethnizität, Alter, Religion oder Nationalität.
+Wir setzen uns dafür ein, die Teilnahme und Mitwirkung in unserer Community so belästigungsfrei wie möglich zu gestalten, unabhängig von Erfahrungsebene, Geschlecht, Gender, sexueller Orientierung, sozialem Status, Behinderungen, Aussehen, Körpergröße und -form, /race/, Hautfarbe, Ethnizität, Alter, Religion oder Nationalität.
 
-Unakzeptables Verhalten beinhaltet unter anderem:
+Unakzeptables Verhalten beinhaltet unter Anderem:
 
 * Die Verwendung sexualisierter Sprache oder Bilder
 * Persönliche Angriffe
@@ -17,11 +17,11 @@ Die Community Betreibenden haben das Recht und die Verantwortung, Kommentare, Co
 
 Durch die Übernahme dieses Verhaltenskodex verpflichten sich die Community Betreibenden, die aufgestellten Prinzipien fair und durchgängig auf alle Aspekte des Projekts anzuwenden. Community Betreibende, die den Verhaltenskodex nicht befolgen oder durchsetzen, können aus dem Projekt-Team dauerhaft entfernt werden.
 
-Dieser Verhaltenskodex gilt sowohl für den öffentlichen Raum als auch den Projektraum wenn Einzelpersonen die dahinter stehende Gemeinschaft repräsentieren.
+Dieser Verhaltenskodex gilt sowohl für den öffentlichen Raum als auch den Projektraum, wenn Einzelpersonen die dahinter stehende Community repräsentieren.
 
 Missbräuchliches, belästigendes oder anderweitig unakzeptables Verhalten bitten wir über folgende Wege zu melden:
 * Über die Erstellung eines neuen Github Issues
-* Über die direkte Kontaktaufnahme mit den Projektbetreibenden auf Slack ("mc" für Sara or "tam" für Tam)
+* Über die direkte Kontaktaufnahme mit den Projektbetreibenden auf Slack ("mc" für Sara oder "tam" für Tam)
 * Via E-Mail senden an: us@juniorsareawesome.org
 
-Dieser Verhaltenskodex basiert auf dem  Contributor Covenant Version 1.2.0
+Dieser Verhaltenskodex basiert auf dem Code of Conduct von ['Contributor Covenant Version 1.2.0'](http://contributor-covenant.org/version/1/2/0/).

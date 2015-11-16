@@ -20,7 +20,7 @@ Durch die Übernahme dieses Verhaltenskodex verpflichten sich die Community Betr
 Dieser Verhaltenskodex gilt sowohl für den öffentlichen Raum als auch den Projektraum, wenn Einzelpersonen die dahinter stehende Community repräsentieren.
 
 Missbräuchliches, belästigendes oder anderweitig unakzeptables Verhalten bitten wir, über eine der folgenden Optionen zu melden:
-* Über die Erstellung eines neuen [Github Issues](https://help.github.com/articles/creating-an-issue/)
+* Über die Erstellung eines neuen [Github Issues](https://github.com/rubycorns/jaa/issues)
 * Über die direkte Kontaktaufnahme mit den Projektbetreibenden auf Slack ("mc" für Sara oder "tam" für Tam), so fern ein Zugang zum Slack Channel besteht.
 * E-Mail senden an: us@juniorsareawesome.org
 

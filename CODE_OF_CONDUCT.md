@@ -18,7 +18,7 @@ Community maintainers have the right and responsibility to remove, edit, or reje
 This code of conduct applies both within project spaces and in public spaces when an individual is representing the community.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by:
-* opening an issue 
+* opening an [issue on Github](https://github.com/rubycorns/jaa/issues) 
 * contacting a community member via slack ("mc" for Sara or "tam" for Tam) provided you are a member of the slack channel
 * or via email (us@juniorsareawesome.org).
 

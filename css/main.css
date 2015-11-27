@@ -44,7 +44,7 @@ body {
 }
 
 .button_s {
-  width: 10%;
+  width: auto;
   margin: 0 auto;
   padding: 10px;
   border: #A9BCF5;

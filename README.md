@@ -7,6 +7,6 @@ To get in touch, email us@juniorsareawesome.org
 ### Deploying
 
 * nudge Tam for uberspace info
-* run `git push uberspace master`
+* run `git push uberspace master` from the command line (not from the uberspace server)
 
 
